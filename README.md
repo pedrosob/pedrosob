@@ -2,8 +2,7 @@
   <img width="600" src="https://github.com/pedrosob/pedrosob/raw/main/MYREADME.png" alt="My Banner">
 </p>
 
-## About Me
-- 📈 Economics Student
+- 📈 B.S. Economics minor SRA 
 - 💻 Experimenting with Code
 - 📊 Data Enthusiast
 - 🚀 Aspiring Risk Analyst
