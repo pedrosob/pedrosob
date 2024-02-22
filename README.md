@@ -5,4 +5,4 @@
 - 📈 B.S. Economics minor SRA 
 - 💻 Experimenting with Code
 - 📊 Data Enthusiast
-- 🚀 Aspiring Risk Analyst
+- ✍️ Check out my Blog!
